@@ -1,0 +1,3 @@
+from menu import ejecutar_menu_principal_calculadora
+
+ejecutar_menu_principal_calculadora()
